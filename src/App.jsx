@@ -2,9 +2,11 @@ function App() {
   return (
     <div>
       <h1>Hello Vite!</h1>
-      <p>This is a React App made with Vite and vite-helper!</p>
+      <p>
+        This is a React app made with Vite and <strong>vite-helper</strong>!
+      </p>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
